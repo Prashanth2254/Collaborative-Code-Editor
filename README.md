@@ -50,14 +50,7 @@ A **real-time, web-based** collaborative code editor that allows multiple users 
 ### Users Display
 ![users display](https://github.com/AmalRitessh/Collaborative-Code-Editor/blob/main/assets/user.png)
 
-## Contributors
 
-<table align="center" style="border: none;">
-<tr>
-<td align="center" width="200"><pre><a href="https://github.com/AmalRitessh"><img src="https://avatars.githubusercontent.com/AmalRitessh" width="200" alt="Profile" /><br><sub>@AmalRitessh</sub></a></pre></td>
-<td align="center" width="200"><pre><a href="https://github.com/ADITHYA-NS"><img src="https://avatars.githubusercontent.com/ADITHYA-NS" width="200" alt="Profile" /><br><sub>@ADITHYA-NS</sub></a></pre></td>
-</tr>
-</table>
 
 
 
